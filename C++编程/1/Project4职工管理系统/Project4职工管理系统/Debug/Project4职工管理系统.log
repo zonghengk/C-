@@ -1,0 +1,12 @@
+﻿  workerManager.cpp
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.h(11,1): error C2008: “"”: 宏定义中的意外
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.h(11,1): error C2001: 常量中有换行符
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.cpp(76,4): warning C4065: switch 语句包含“default”但是未包含“case”标签
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.cpp(102,11): error C2065: “empFile”: 未声明的标识符
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.cpp(102,11): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.cpp(102,11): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.cpp(102,29): error C2059: 语法错误:“)”
+  源.cpp
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.h(11,1): error C2008: “"”: 宏定义中的意外
+D:\C++编程\1\Project4职工管理系统\Project4职工管理系统\workerManager.h(11,1): error C2001: 常量中有换行符
+  正在生成代码...
